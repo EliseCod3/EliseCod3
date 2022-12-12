@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a social platform
+- 🌱 I’m currently learning team collabotation with Github
+- 📫 How to reach me: [YouTube - A.sauce](https://www.youtube.com/@user-vh5rx6in9e/featured), [Discord - A.sauceQueen](https://discord.com/channels/@me), [Twitter - SauzyQ](https://twitter.com/SauzyQ)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love anime
+<img src="https://github-readme-stats.vercel.app/api?username=EliseCod3&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!--
 **EliseCod3/EliseCod3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
